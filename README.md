@@ -31,6 +31,7 @@ I enjoy transforming data into meaningful insights and building machine learning
 
 ### Web Development
 - Django
+- Html,css,JS
 
 ---
 
